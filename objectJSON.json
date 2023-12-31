@@ -1,0 +1,32 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "isEmployed": true,
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "postalCode": "12345"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "212-555-1234"
+    },
+    {
+      "type": "office",
+      "number": "646-555-4567"
+    }
+  ],
+  "spouse": null,
+  "children": [
+    {
+      "name": "Maggie",
+      "age": 3
+    },
+    {
+      "name": "Zack",
+      "age": 5
+    }
+  ]
+}

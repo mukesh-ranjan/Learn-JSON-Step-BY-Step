@@ -1,0 +1,25 @@
+{
+  "arrayOfNumbers": [1, 2, 3, 4, 5],
+  "arrayOfStrings": ["apple", "banana", "cherry", "date"],
+  "mixedArray": [
+    42,
+    "text",
+    true,
+    null,
+    { "name": "John", "age": 30 },
+    [2, 4, 6]
+  ],
+  "arrayOfObjects": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com"
+    }
+  ],
+  "emptyArray": []
+}
